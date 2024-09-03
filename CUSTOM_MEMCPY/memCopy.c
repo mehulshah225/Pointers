@@ -2,7 +2,7 @@
 /* Author: Mehul Shah */
 
 #include <stdio.h>
-#include <stdint.h>
+
 
 void memCpy(void* dest, const void* source, int size)
 {
